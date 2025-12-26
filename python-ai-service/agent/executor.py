@@ -1,0 +1,1 @@
+def execute(q): return []
